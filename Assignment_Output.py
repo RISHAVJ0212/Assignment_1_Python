@@ -15,7 +15,7 @@ The average of  247.9 , 50.4 and 68.0 is  :    122.10000000000001
 -------2------
 
 To compute a person's income tax
-Enter your Gross Income   :   640000
+Enter your Gross Income (in dollara)  :   640000
 Enter the number of Dependents  :   15
 Your income tax is  :  117000.0
 
