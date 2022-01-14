@@ -18,13 +18,13 @@ print("\n \n")
 
 print("-------2------\n")
 print("To compute a person's income tax")
-Income = int(input("Enter your Gross Income   :   "))
+Income = int(input("Enter your Gross Income (in dollars)  :   "))
 Dependents = int(input("Enter the number of Dependents  :   "))
 # Taxable income = Gross Income - Standard deduction - (Dependent deduction * No. of dependents)
 Taxable_Income = Income -10000 - 3000*Dependents
 # Tax = Taxable Income * Tax Rate
 Income_Tax = Taxable_Income*0.2
-print("Your income tax is  : ",Income_Tax)
+print("Your income tax is  : ",Income_Tax  "Dollars")
 
 print("\n \n")
 
